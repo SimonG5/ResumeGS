@@ -1,0 +1,105 @@
+angular
+asp.net/asp.net core
+express
+vue
+spring
+django
+flask
+laravel
+ruby on rails
+symfony
+gatsby
+sinatra
+cakephp
+horde
+yii
+zend
+zikula
+bootstrap
+grails
+play
+web2py
+lumen
+turbogears
+phalcon
+fuelphp
+spark
+grok
+mojolicious
+fat-free framework
+wicket
+yesod
+sencha ext js
+nuxt.js
+phoenix
+codeigniter
+phpixie
+javalin
+silex
+caliburn micro
+ionic
+xamarin
+phonegap
+react native
+corona
+jquery mobile
+flutter
+mobile angular ui
+appcelerator titanium
+swiftic
+nativescript
+framework 7
+neural network libraries
+apache mxnet
+ml.net
+infer.net
+accord.net
+chainer
+horovod
+h2o q
+robot framework
+gauge
+pytest
+jest
+mocha
+jasmine
+nightwatch
+protractor
+cypress
+testproject
+galen framework
+webdriverio
+opentest
+citrus
+karate
+scrapy
+truffle
+embark
+etherlime
+openzeppelin contracts
+brownie
+create eth app
+exonum
+hyperledger
+corda
+multichain
+meteor
+onsen ui
+sitewhere
+electron
+svelte
+aurelia
+mithril
+bulma
+microdot
+rapidoid
+ktor
+scalatra
+react
+unity
+unreal engine
+tensorflow
+keras
+pytorch
+bs4
+beautifulsoup
